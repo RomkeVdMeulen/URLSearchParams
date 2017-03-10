@@ -6,5 +6,5 @@ By some unfortunate timing, the typings for the [URLSearchParams](URLSearchParam
 This repo can be used as a temporary patch until the interface is added to a standard library. To install:
 
 ```
-typings install github:RomkeVdMeulen/URLSearchParams --global --save
+typings install github:Vevida/URLSearchParams --global --save
 ```
